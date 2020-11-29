@@ -1,0 +1,208 @@
+body{
+    margin: 0%;
+    text-align: center;
+
+}
+.top-container{
+    background-color:  #fff0f0;
+   
+  
+    
+  
+}
+
+.name{
+    font-family:'Rock Salt', cursive;
+    padding-top: 100px;
+    color: #0278ae;
+    margin: 0%;
+   
+}
+.student{
+    font-family: 'Bad Script', cursive;
+    font-weight: normal;
+    color: #0278ae;
+
+   
+}
+span{
+    text-decoration: underline;
+    
+}
+.mountain{
+   width: 45%;
+
+}
+/*.bird{
+    position: absolute;
+    width: 10%;
+    left: 350px;
+    bottom: 550px;
+}
+
+.cloud{
+    position: absolute;
+    width: 10%;
+    top: 50px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    width: 10%;
+    left: 250px;
+
+
+}*/
+
+.circle-profile{
+    width: 25%;
+   
+
+}
+.profile{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    font-size: 25px;
+     line-height: 2;
+}
+.middle-container{
+    font-family: 'Bad Script', cursive;
+
+}
+
+h2{
+    color: #0278ae;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.aries{
+    width: 200px;
+    float: left;
+    margin-right: 70px; 
+}
+
+.h2{
+   
+    margin-top: 70px;
+   
+   
+}
+
+
+.sign{
+   
+    width: 50%;
+    margin: 100px auto 100px auto;
+    font-size: 25px;
+     line-height: 2;
+}
+
+.Hot-tea{
+    width: 200px;
+
+    float: right;
+}
+.My-drink{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    font-size: 25px;
+     line-height: 2;
+
+}
+
+
+
+
+.tea{
+  
+    
+    margin: 100px auto 100px auto;
+    font-size: 25px;
+     line-height: 2;
+}
+.contact-me{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    font-size: 25px;
+     line-height: 2;
+}
+
+h3{
+    font-weight: normal;
+    color: #0278ae;
+
+}
+
+.btn{
+    
+
+    background-color:#fff0f0;
+    
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        color: #0278ae;
+        font-family: 'Bad Script', cursive;
+        font-size: 15px;
+        font-weight: 100;
+        padding: 10px;
+      
+        -webkit-box-shadow: 5px -8px 24px 0 #FFFFFF;
+        -moz-box-shadow: 5px -8px 24px 0 #FFFFFF;
+        box-shadow: 5px -8px 24px 0 #FFFFFF;
+        text-shadow: -51px -22px 91px #FFFFFF;
+        border: solid #FFFFFF 1px;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+     }
+     
+     .btn:hover {
+        border: solid #000008 0;
+        background: #EBBEEF;
+        background-image: -webkit-linear-gradient(top, #EBBEEF, #1A9DDA);
+        background-image: -moz-linear-gradient(top, #EBBEEF, #1A9DDA);
+        background-image: -ms-linear-gradient(top, #EBBEEF, #1A9DDA);
+        background-image: -o-linear-gradient(top, #EBBEEF, #1A9DDA);
+        background-image: -webkit-gradient(to bottom, #EBBEEF, #1A9DDA);
+        -webkit-border-radius: 7px;
+        -moz-border-radius: 7px;
+        border-radius: 7px;
+        text-decoration: none;
+     }
+  
+.bottom-container{
+    background-color: #fff0f0;
+   padding: 50px 0 20px;
+   line-height: 3;
+    
+
+}
+.nida{
+
+    background-color: #fff0f0;
+    margin: 0%;
+}
+a{
+    color: #0278ae;
+    font-style: bold;
+    font-family: 'Bad Script', cursive;
+    margin: 20px 40px;
+}
+
+hr{
+    margin: 100px auto;
+    border-style: none; 
+    border-top-style: dotted;
+    border-color:  #fff0f0;
+    border-width: 8px;
+   
+    width: 6%;
+    
+}
+a:hover{
+    color: #EBBEEF;
+}
